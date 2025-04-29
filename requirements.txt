@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+weaviate-client>=4.0.0
+llama-index>=0.10.34
+llama-index-vector-stores-weaviate
+llama-index-embeddings-huggingface
+llama-index-llms-langchain
+llama-parse
+langchain_community
+langchain-groq
+transformers
+sentence-transformers
+torch
+chromadb
+llama-index-vector-stores-chroma
+llama-index-vector-stores-pinecone
+pinecone
